@@ -1,9 +1,10 @@
-PCBNEW-LibModule-V1  Mon 03 Feb 2014 06:20:38 PM CET
+PCBNEW-LibModule-V1  Mon 03 Feb 2014 06:42:29 PM CET
 # encoding utf-8
 Units mm
 $INDEX
 SO-8
 SOT23-8
+TSOT23-6
 $EndINDEX
 $MODULE SO-8
 Po 0 0 0 15 52EFCFE2 00000000 ~~
@@ -141,4 +142,58 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE SOT23-8
+$MODULE TSOT23-6
+Po 0 0 0 15 52EFD502 00000000 ~~
+Li TSOT23-6
+Sc 0
+AR 
+Op 0 0 0
+T0 1.2 -5.8 1 1 0 0.15 N V 21 N "TSOT23-6"
+T1 1.2 -4.2 1 1 0 0.15 N V 21 N "VAL**"
+DS 2.5 -1.62 2.5 -1 0.25 21
+DS -0.6 -1.62 -0.6 -1 0.25 21
+DS 0 -1.01 0 -1 0.25 21
+$PAD
+Sh "4" R 0.62 1.22 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -2.62
+$EndPAD
+$PAD
+Sh "5" R 0.62 1.22 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.95 -2.62
+$EndPAD
+$PAD
+Sh "3" R 0.62 1.22 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 0
+$EndPAD
+$PAD
+Sh "6" R 0.62 1.22 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.62
+$EndPAD
+$PAD
+Sh "2" R 0.62 1.22 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.95 0
+$EndPAD
+$PAD
+Sh "1" R 0.62 1.22 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE TSOT23-6
 $EndLIBRARY
