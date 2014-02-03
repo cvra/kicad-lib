@@ -1,0 +1,144 @@
+PCBNEW-LibModule-V1  Mon 03 Feb 2014 06:20:38 PM CET
+# encoding utf-8
+Units mm
+$INDEX
+SO-8
+SOT23-8
+$EndINDEX
+$MODULE SO-8
+Po 0 0 0 15 52EFCFE2 00000000 ~~
+Li SO-8
+Sc 0
+AR 
+Op 0 0 0
+T0 1.6 -9.6 1 1 0 0.15 N V 21 N "SO-8"
+T1 1.6 -8 1 1 0 0.15 N V 21 N "VAL**"
+DS -0.6 -4.26 -0.6 -1.26 0.25 21
+DS 4.41 -4.26 4.41 -1.26 0.25 21
+DS 0 -1.31 0 -1.3 0.25 21
+$PAD
+Sh "8" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -5.5
+$EndPAD
+$PAD
+Sh "7" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 -5.5
+$EndPAD
+$PAD
+Sh "6" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 -5.5
+$EndPAD
+$PAD
+Sh "5" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 -5.5
+$EndPAD
+$PAD
+Sh "4" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "3" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "2" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "1" R 0.6 1.52 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE SO-8
+$MODULE SOT23-8
+Po 0 0 0 15 52EFCF2D 00000000 ~~
+Li SOT23-8
+Sc 0
+AR 
+Op 0 0 0
+T0 2 -9.4 1 1 0 0.15 N V 21 N "SOT23-8"
+T1 1.2 -8 1 1 0 0.15 N V 21 N "VAL**"
+DS -0.4 -1.7 -0.4 -0.9 0.25 21
+DS 2.35 -1.7 2.35 -0.9 0.25 21
+DS 0 -1 0 -1.01 0.25 21
+$PAD
+Sh "8" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.6
+$EndPAD
+$PAD
+Sh "7" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.65 -2.6
+$EndPAD
+$PAD
+Sh "6" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3 -2.6
+$EndPAD
+$PAD
+Sh "5" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.95 -2.6
+$EndPAD
+$PAD
+Sh "4" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.95 0
+$EndPAD
+$PAD
+Sh "3" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3 0
+$EndPAD
+$PAD
+Sh "2" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.65 0
+$EndPAD
+$PAD
+Sh "1" R 0.45 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE SOT23-8
+$EndLIBRARY
