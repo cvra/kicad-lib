@@ -1,3 +1,7 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu May 16 07:20:24 2013
+EESchema-DOCLIB  Version 2.0  Date: Fri 31 Jan 2014 08:14:08 PM CET
+#
+$CMP STM32F303CCT6
+D STM32F303CCT6
+$ENDCMP
 #
 #End Doc Library
