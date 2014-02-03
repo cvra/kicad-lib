@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 18 May 2013 01:37:01 AM UTC
+#
+$CMP H3LIS331DL
+D high-g accelerometer
+K acc
+$ENDCMP
+#
+#End Doc Library
