@@ -1,13 +1,151 @@
-PCBNEW-LibModule-V1  Tue 04 Feb 2014 12:00:22 PM CET
+PCBNEW-LibModule-V1  Tue 04 Feb 2014 02:40:38 PM CET
 # encoding utf-8
 Units mm
 $INDEX
+MSOP-8
+MSOP-8-N
 SO-8
 SOT23-8
 TSOT23-5
 TSOT23-6
 TSSOP-8
 $EndINDEX
+$MODULE MSOP-8
+Po 0 0 0 15 52F0EDAB 00000000 ~~
+Li MSOP-8
+Sc 0
+AR 
+Op 0 0 0
+T0 1 -7.4 1 1 0 0.15 N V 21 N "MSOP-8"
+T1 1 -6 1 1 0 0.15 N V 21 N "VAL**"
+DS 2.35 -3.341 2.35 -1 0.25 21
+DS -0.4 -3.341 -0.4 -1 0.25 21
+DS 0 -1 0 -1.01 0.25 21
+$PAD
+Sh "8" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.341
+$EndPAD
+$PAD
+Sh "7" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.65 -4.341
+$EndPAD
+$PAD
+Sh "6" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3 -4.341
+$EndPAD
+$PAD
+Sh "5" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.95 -4.341
+$EndPAD
+$PAD
+Sh "4" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.95 0
+$EndPAD
+$PAD
+Sh "3" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3 0
+$EndPAD
+$PAD
+Sh "2" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.65 0
+$EndPAD
+$PAD
+Sh "1" R 0.42 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE MSOP-8
+$MODULE MSOP-8-N
+Po 0 0 0 15 52F0ECD5 00000000 ~~
+Li MSOP-8-N
+Sc 0
+AR 
+Op 0 0 0
+T0 1 -7.4 1 1 0 0.15 N V 21 N "MSOP-8"
+T1 1 -6 1 1 0 0.15 N V 21 N "VAL**"
+DS 2.35 -3.341 2.35 -1 0.25 21
+DS -0.4 -3.341 -0.4 -1 0.25 21
+DS 0 -1 0 -1.01 0.25 21
+$PAD
+Sh "8" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.341
+$EndPAD
+$PAD
+Sh "7" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.65 -4.341
+$EndPAD
+$PAD
+Sh "6" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3 -4.341
+$EndPAD
+$PAD
+Sh "5" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.95 -4.341
+$EndPAD
+$PAD
+Sh "4" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.95 0
+$EndPAD
+$PAD
+Sh "3" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3 0
+$EndPAD
+$PAD
+Sh "2" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.65 0
+$EndPAD
+$PAD
+Sh "1" R 0.42 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE MSOP-8-N
 $MODULE SO-8
 Po 0 0 0 15 52EFCFE2 00000000 ~~
 Li SO-8
