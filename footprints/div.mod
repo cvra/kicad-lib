@@ -1,0 +1,45 @@
+PCBNEW-LibModule-V1  Wed 05 Feb 2014 02:19:50 PM CET
+# encoding utf-8
+Units mm
+$INDEX
+TSX-3225-SMD-XTAL
+$EndINDEX
+$MODULE TSX-3225-SMD-XTAL
+Po 0 0 0 15 52F22155 00000000 ~~
+Li TSX-3225-Crystal
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.1 -4.4 1 1 0 0.15 N V 21 N "TSX-3225-SMD-XTAL"
+T1 0 -2.6 1 1 0 0.15 N V 21 N "VAL**"
+DS -2.2 1.4 -2.2 1.41 0.25 21
+$PAD
+Sh "4" R 1.4 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.1 -0.8
+$EndPAD
+$PAD
+Sh "3" R 1.4 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 -0.8
+$EndPAD
+$PAD
+Sh "2" R 1.4 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 0.8
+$EndPAD
+$PAD
+Sh "1" R 1.4 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.1 0.8
+$EndPAD
+$EndMODULE TSX-3225-SMD-XTAL
+$EndLIBRARY
