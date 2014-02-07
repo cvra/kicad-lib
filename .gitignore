@@ -1,2 +1,4 @@
+
 *.bck
 *.bak
+footprints/tmp/*
