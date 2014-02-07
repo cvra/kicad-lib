@@ -1,8 +1,9 @@
-PCBNEW-LibModule-V1  Mon 03 Feb 2014 05:36:09 PM CET
+PCBNEW-LibModule-V1  Fri 07 Feb 2014 10:26:17 PM CET
 # encoding utf-8
 Units mm
 $INDEX
 Micro-USB-AB-receptacle-SMT
+Molex-PicoBlade-SMD-2
 Molex-PicoBlade-SMD-4
 Molex-PicoBlade-SMD-6
 Molex-PicoBlade-SMD-8
@@ -93,6 +94,45 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE Micro-USB-AB-receptacle-SMT
+$MODULE Molex-PicoBlade-SMD-2
+Po 0 0 0 15 52F54F66 00000000 ~~
+Li Molex-PicoBlade-SMD-2
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.01 -8.82 1.5 1.5 0 0.15 N V 21 N "Molex-PicoBlade-SMD-2"
+T1 0.1 -6.17 1.5 1.5 0 0.15 N V 21 N "VAL**"
+DS 0.625 -1.5 0.625 -1.51 0.25 21
+DS -0.625 1.5 0.625 1.5 0.25 21
+$PAD
+Sh "1" R 0.8 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.625 -2.9
+$EndPAD
+$PAD
+Sh "2" R 0.8 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.625 -2.9
+$EndPAD
+$PAD
+Sh "3" R 2.1 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.175 0
+$EndPAD
+$PAD
+Sh "4" R 2.1 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.175 0
+$EndPAD
+$EndMODULE Molex-PicoBlade-SMD-2
 $MODULE Molex-PicoBlade-SMD-4
 Po 0 0 0 15 52EFB8EA 00000000 ~~
 Li Molex-PicoBlade-SMD-4
