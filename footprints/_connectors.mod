@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Fri 07 Feb 2014 10:26:17 PM CET
+PCBNEW-LibModule-V1  Sat 15 Feb 2014 06:16:04 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -9,13 +9,13 @@ _Molex-PicoBlade-SMD-6
 _Molex-PicoBlade-SMD-8
 $EndINDEX
 $MODULE _Micro-USB-AB-receptacle-SMT
-Po 0 0 0 15 52EFC576 00000000 ~~
+Po 0 0 0 15 52FF9FCA 00000000 ~~
 Li _Micro-USB-AB-receptacle-SMT
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -4.2 1 1 0 0.15 N V 21 N "_Micro-USB-AB-receptacle-SMT"
-T1 0.1 -2.3 1 1 0 0.15 N V 21 N "VAL**"
+T0 0 0.9 0.5 0.5 0 0.125 N V 21 N "_Micro-USB-AB-receptacle-SMT"
+T1 0 1.9 0.5 0.5 0 0.125 N V 21 N "VAL**"
 $PAD
 Sh "9" R 1.9 1.9 0 0 0
 Dr 0 0 0
@@ -95,13 +95,13 @@ Po 0 0
 $EndPAD
 $EndMODULE _Micro-USB-AB-receptacle-SMT
 $MODULE _Molex-PicoBlade-SMD-2
-Po 0 0 0 15 52F54F66 00000000 ~~
+Po 0 0 0 15 52FF9FE7 00000000 ~~
 Li _Molex-PicoBlade-SMD-2
 Sc 0
 AR 
 Op 0 0 0
-T0 -0.01 -8.82 1.5 1.5 0 0.15 N V 21 N "_Molex-PicoBlade-SMD-2"
-T1 0.1 -6.17 1.5 1.5 0 0.15 N V 21 N "VAL**"
+T0 0 -0.4 0.5 0.5 0 0.125 N V 21 N "_Molex-PicoBlade-SMD-2"
+T1 0 0.7 0.5 0.5 0 0.125 N V 21 N "VAL**"
 DS 0.625 -1.5 0.625 -1.51 0.25 21
 DS -0.625 1.5 0.625 1.5 0.25 21
 $PAD
@@ -134,13 +134,13 @@ Po 3.175 0
 $EndPAD
 $EndMODULE _Molex-PicoBlade-SMD-2
 $MODULE _Molex-PicoBlade-SMD-4
-Po 0 0 0 15 52EFB8EA 00000000 ~~
+Po 0 0 0 15 52FFA00B 00000000 ~~
 Li _Molex-PicoBlade-SMD-4
 Sc 0
 AR 
 Op 0 0 0
-T0 -0.01 -8.82 1.5 1.5 0 0.15 N V 21 N "_Molex-PicoBlade-SMD-4"
-T1 0.1 -6.17 1.5 1.5 0 0.15 N V 21 N "VAL**"
+T0 0 -0.8 0.5 0.5 0 0.125 N V 21 N "_Molex-PicoBlade-SMD-4"
+T1 0 0.7 0.5 0.5 0 0.125 N V 21 N "VAL**"
 DS 1.875 -1.5 1.875 -1.51 0.25 21
 DS -1.875 1.5 1.875 1.5 0.25 21
 $PAD
@@ -187,13 +187,13 @@ Po 4.425 0
 $EndPAD
 $EndMODULE _Molex-PicoBlade-SMD-4
 $MODULE _Molex-PicoBlade-SMD-6
-Po 0 0 0 15 52EFB8A2 00000000 ~~
+Po 0 0 0 15 52FFA0A3 00000000 ~~
 Li _Molex-PicoBlade-SMD-6
 Sc 0
 AR 
 Op 0 0 0
-T0 0.01 -9.03 1.5 1.5 0 0.15 N V 21 N "_Molex-PicoBlade-SMD-6"
-T1 0.06 -6.08 1.5 1.5 0 0.15 N V 21 N "VAL**"
+T0 0 -0.6 0.5 0.5 0 0.125 N V 21 N "_Molex-PicoBlade-SMD-6"
+T1 0 0.5 0.5 0.5 0 0.125 N V 21 N "VAL**"
 DS 3.125 -1.5 3.125 -1.51 0.25 21
 DS -3.125 1.5 3.125 1.5 0.25 21
 $PAD
@@ -254,13 +254,13 @@ Po 5.675 0
 $EndPAD
 $EndMODULE _Molex-PicoBlade-SMD-6
 $MODULE _Molex-PicoBlade-SMD-8
-Po 0 0 0 15 52EFB85D 00000000 ~~
+Po 0 0 0 15 52FFA0D0 00000000 ~~
 Li _Molex-PicoBlade-SMD-8
 Sc 0
 AR 
 Op 0 0 0
-T0 0.01 -9.03 1.5 1.5 0 0.15 N V 21 N "_Molex-PicoBlade-SMD-8"
-T1 0.06 -6.08 1.5 1.5 0 0.15 N V 21 N "VAL**"
+T0 0 -0.8 0.5 0.5 0 0.125 N V 21 N "_Molex-PicoBlade-SMD-8"
+T1 0 0.6 0.5 0.5 0 0.125 N V 21 N "VAL**"
 DS 4.375 -1.5 4.375 -1.51 0.25 21
 DS -4.375 1.5 4.375 1.5 0.25 21
 $PAD
