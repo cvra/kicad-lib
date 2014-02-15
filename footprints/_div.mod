@@ -1,9 +1,10 @@
-PCBNEW-LibModule-V1  Sun 09 Feb 2014 02:42:11 PM CET
+PCBNEW-LibModule-V1  Sat 15 Feb 2014 12:55:43 PM CET
 # encoding utf-8
 Units mm
 $INDEX
 _FAIRCHILD-MOSFET-SuperSOT-3
 _FAIRCHILD-MOSFET-SuperSOT-6
+_Molex-microSD-502570-0893
 _TSX-3225-SMD-XTAL
 $EndINDEX
 $MODULE _FAIRCHILD-MOSFET-SuperSOT-3
@@ -93,6 +94,113 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE _FAIRCHILD-MOSFET-SuperSOT-6
+$MODULE _Molex-microSD-502570-0893
+Po 0 0 0 15 52FF54B5 00000000 ~~
+Li _Molex-microSD-502570-0893
+Sc 0
+AR 
+Op 0 0 0
+T0 0.7 3.1 0.7 0.7 0 0.1 N V 21 N "_Molex-microSD-502570-0893"
+T1 1.1 4.7 0.7 0.7 0 0.1 N V 21 N "VAL**"
+$PAD
+Sh "SHD" R 1.4 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.15 -2.9
+$EndPAD
+$PAD
+Sh "5" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4 0
+$EndPAD
+$PAD
+Sh "6" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.5 0
+$EndPAD
+$PAD
+Sh "8" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 0
+$EndPAD
+$PAD
+Sh "7" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.6 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.3 0
+$EndPAD
+$PAD
+Sh "2" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "SHD" R 1.4 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 -2.9
+$EndPAD
+$PAD
+Sh "9" R 1.15 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.275 6.85
+$EndPAD
+$PAD
+Sh "SHD" R 1.5 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.7 11.575
+$EndPAD
+$PAD
+Sh "SHD" R 1.5 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.1 11.575
+$EndPAD
+$PAD
+Sh "SHD" R 1.5 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.2 11.575
+$EndPAD
+$EndMODULE _Molex-microSD-502570-0893
 $MODULE _TSX-3225-SMD-XTAL
 Po 0 0 0 15 52F22155 00000000 ~~
 Li _TSX-3225-SMD-XTAL
