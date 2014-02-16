@@ -1,9 +1,9 @@
 EESchema-LIBRARY Version 2.3  Date: Thu 30 Jan 2014 11:43:32 PM CET
 #encoding utf-8
 #
-# _NRF24R01+
+# NRF24R01+
 #
-DEF _NRF24R01+ U 0 40 Y Y 1 F N
+DEF NRF24R01+ U 0 40 Y Y 1 F N
 F0 "U" 0 0 60 H V C CNN
 F1 "NRF24R01+" 50 150 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
