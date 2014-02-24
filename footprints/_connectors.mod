@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sat 15 Feb 2014 06:16:04 PM CET
+PCBNEW-LibModule-V1  Mon 24 Feb 2014 08:59:00 UTC
 # encoding utf-8
 Units mm
 $INDEX
@@ -7,6 +7,7 @@ _Molex-PicoBlade-SMD-2
 _Molex-PicoBlade-SMD-4
 _Molex-PicoBlade-SMD-6
 _Molex-PicoBlade-SMD-8
+_Solder_Pad2.54_2
 $EndINDEX
 $MODULE _Micro-USB-AB-receptacle-SMT
 Po 0 0 0 15 52FF9FCA 00000000 ~~
@@ -334,4 +335,27 @@ Ne 0 ""
 Po 6.925 0
 $EndPAD
 $EndMODULE _Molex-PicoBlade-SMD-8
+$MODULE _Solder_Pad2.54_2
+Po 0 0 0 15 530B0961 00000000 ~~
+Li _Solder_Pad2.54_2
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad2.54_2"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "1" R 1.8 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" R 1.8 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$EndMODULE _Solder_Pad2.54_2
 $EndLIBRARY
