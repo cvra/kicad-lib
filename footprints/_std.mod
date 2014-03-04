@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mit 26 Feb 2014 19:46:10 UTC
+PCBNEW-LibModule-V1  Tue 04 Mar 2014 10:37:04 AM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -7,6 +7,7 @@ _0603-W
 _MSOP-8
 _MSOP-8-EP
 _MSOP-8-N
+_QFN20-EP
 _SC79
 _SO-8
 _SOT23-3
@@ -276,6 +277,163 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE _MSOP-8-N
+$MODULE _QFN20-EP
+Po 0 0 0 15 53159EA8 00000000 ~~
+Li _QFN20-EP
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.2 -6.4 0.5 0.5 0 0.125 N V 21 N "_QFN20-EP"
+T1 -0.1 -5.3 0.5 0.5 0 0.125 N V 21 N "VAL**"
+DS -1.6 1.6 -1.61 1.61 0.15 21
+$PAD
+Sh "8" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 0.05
+$EndPAD
+$PAD
+Sh "9" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -0.5
+$EndPAD
+$PAD
+Sh "10" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -1
+$EndPAD
+$PAD
+Sh "7" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 0.5
+$EndPAD
+$PAD
+Sh "6" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 1
+$EndPAD
+$PAD
+Sh "20" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 1
+$EndPAD
+$PAD
+Sh "19" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 0.5
+$EndPAD
+$PAD
+Sh "16" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -1
+$EndPAD
+$PAD
+Sh "17" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -0.5
+$EndPAD
+$PAD
+Sh "11" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -1.9
+$EndPAD
+$PAD
+Sh "12" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 -1.9
+$EndPAD
+$PAD
+Sh "13" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.9
+$EndPAD
+$PAD
+Sh "14" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 -1.9
+$EndPAD
+$PAD
+Sh "15" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 -1.9
+$EndPAD
+$PAD
+Sh "1" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 1.9
+$EndPAD
+$PAD
+Sh "2" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 1.9
+$EndPAD
+$PAD
+Sh "3" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.9
+$EndPAD
+$PAD
+Sh "4" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 1.9
+$EndPAD
+$PAD
+Sh "5" R 0.25 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 1.9
+$EndPAD
+$PAD
+Sh "18" R 0.25 0.7 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 0
+$EndPAD
+$PAD
+Sh "21" R 2.45 2.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE _QFN20-EP
 $MODULE _SC79
 Po 0 0 0 15 530E441C 00000000 ~~
 Li _SC79
