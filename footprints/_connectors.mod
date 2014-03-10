@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sam 08 Mär 2014 21:55:47 UTC
+PCBNEW-LibModule-V1  Mon 10 Mär 2014 21:06:32 UTC
 # encoding utf-8
 Units mm
 $INDEX
@@ -357,7 +357,7 @@ Po 6.925 0
 $EndPAD
 $EndMODULE _Molex-PicoBlade-SMD-8
 $MODULE _Pin2mm_10
-Po 0 0 0 15 531B9072 00000000 ~~
+Po 0 0 0 15 531E2942 00000000 ~~
 Li _Pin2mm_10
 Sc 0
 AR 
@@ -421,7 +421,7 @@ Ne 0 ""
 Po -5 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -436,7 +436,7 @@ Po -7 0
 $EndPAD
 $EndMODULE _Pin2mm_10
 $MODULE _Pin2mm_10z
-Po 0 0 0 15 531B91DD 00000000 ~~
+Po 0 0 0 15 531E2955 00000000 ~~
 Li _Pin2mm_10z
 Sc 0
 AR 
@@ -500,7 +500,7 @@ Ne 0 ""
 Po -5 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -515,7 +515,7 @@ Po -7 -0.15
 $EndPAD
 $EndMODULE _Pin2mm_10z
 $MODULE _Pin2mm_2
-Po 0 0 0 15 531B8F14 00000000 ~~
+Po 0 0 0 15 531E284D 00000000 ~~
 Li _Pin2mm_2
 Sc 0
 AR 
@@ -523,7 +523,7 @@ Op 0 0 0
 T0 0 0 0.127 0.127 0 0.03175 N V 21 N "_Pin2mm_2"
 T1 0 0 0.127 0.127 0 0.03175 N V 21 N "VAL**"
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -538,7 +538,7 @@ Po 1 0
 $EndPAD
 $EndMODULE _Pin2mm_2
 $MODULE _Pin2mm_3
-Po 0 0 0 15 531B8F3D 00000000 ~~
+Po 0 0 0 15 531E2867 00000000 ~~
 Li _Pin2mm_3
 Sc 0
 AR 
@@ -553,7 +553,7 @@ Ne 0 ""
 Po 2 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -568,7 +568,7 @@ Po 0 0
 $EndPAD
 $EndMODULE _Pin2mm_3
 $MODULE _Pin2mm_3z
-Po 0 0 0 15 531B9109 00000000 ~~
+Po 0 0 0 15 531E2893 00000000 ~~
 Li _Pin2mm_3z
 Sc 0
 AR 
@@ -583,7 +583,7 @@ Ne 0 ""
 Po 2 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -598,7 +598,7 @@ Po 0 -0.15
 $EndPAD
 $EndMODULE _Pin2mm_3z
 $MODULE _Pin2mm_4
-Po 0 0 0 15 531B8F99 00000000 ~~
+Po 0 0 0 15 531E28A7 00000000 ~~
 Li _Pin2mm_4
 Sc 0
 AR 
@@ -620,7 +620,7 @@ Ne 0 ""
 Po 1 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -635,7 +635,7 @@ Po -1 0
 $EndPAD
 $EndMODULE _Pin2mm_4
 $MODULE _Pin2mm_4z
-Po 0 0 0 15 531B9128 00000000 ~~
+Po 0 0 0 15 531E28B6 00000000 ~~
 Li _Pin2mm_4z
 Sc 0
 AR 
@@ -657,7 +657,7 @@ Ne 0 ""
 Po 1 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -672,7 +672,7 @@ Po -1 -0.15
 $EndPAD
 $EndMODULE _Pin2mm_4z
 $MODULE _Pin2mm_5
-Po 0 0 0 15 531B8FA9 00000000 ~~
+Po 0 0 0 15 531E28C3 00000000 ~~
 Li _Pin2mm_5
 Sc 0
 AR 
@@ -701,7 +701,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -716,7 +716,7 @@ Po -2 0
 $EndPAD
 $EndMODULE _Pin2mm_5
 $MODULE _Pin2mm_5z
-Po 0 0 0 15 531B9139 00000000 ~~
+Po 0 0 0 15 531E28D6 00000000 ~~
 Li _Pin2mm_5z
 Sc 0
 AR 
@@ -745,7 +745,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -760,7 +760,7 @@ Po -2 -0.15
 $EndPAD
 $EndMODULE _Pin2mm_5z
 $MODULE _Pin2mm_6
-Po 0 0 0 15 531B8FC6 00000000 ~~
+Po 0 0 0 15 531E28E3 00000000 ~~
 Li _Pin2mm_6
 Sc 0
 AR 
@@ -796,7 +796,7 @@ Ne 0 ""
 Po -1 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -811,7 +811,7 @@ Po -3 0
 $EndPAD
 $EndMODULE _Pin2mm_6
 $MODULE _Pin2mm_6z
-Po 0 0 0 15 531B9167 00000000 ~~
+Po 0 0 0 15 531E28F1 00000000 ~~
 Li _Pin2mm_6z
 Sc 0
 AR 
@@ -847,7 +847,7 @@ Ne 0 ""
 Po -1 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -862,7 +862,7 @@ Po -3 -0.15
 $EndPAD
 $EndMODULE _Pin2mm_6z
 $MODULE _Pin2mm_7
-Po 0 0 0 15 531B8FD3 00000000 ~~
+Po 0 0 0 15 531E28FF 00000000 ~~
 Li _Pin2mm_7
 Sc 0
 AR 
@@ -905,7 +905,7 @@ Ne 0 ""
 Po -2 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -920,7 +920,7 @@ Po -4 0
 $EndPAD
 $EndMODULE _Pin2mm_7
 $MODULE _Pin2mm_7z
-Po 0 0 0 15 531B918D 00000000 ~~
+Po 0 0 0 15 531E2914 00000000 ~~
 Li _Pin2mm_7z
 Sc 0
 AR 
@@ -963,7 +963,7 @@ Ne 0 ""
 Po -2 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -978,7 +978,7 @@ Po -4 -0.15
 $EndPAD
 $EndMODULE _Pin2mm_7z
 $MODULE _Pin2mm_8
-Po 0 0 0 15 531B8FEC 00000000 ~~
+Po 0 0 0 15 531E2924 00000000 ~~
 Li _Pin2mm_8
 Sc 0
 AR 
@@ -1028,7 +1028,7 @@ Ne 0 ""
 Po -3 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -1043,7 +1043,7 @@ Po -5 0
 $EndPAD
 $EndMODULE _Pin2mm_8
 $MODULE _Pin2mm_8z
-Po 0 0 0 15 531B91B9 00000000 ~~
+Po 0 0 0 15 531E2934 00000000 ~~
 Li _Pin2mm_8z
 Sc 0
 AR 
@@ -1093,7 +1093,7 @@ Ne 0 ""
 Po -3 0
 $EndPAD
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
+Sh "1" R 1.5 1.5 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
