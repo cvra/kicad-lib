@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mon 10 Mär 2014 21:06:32 UTC
+PCBNEW-LibModule-V1  Sam 19 Apr 2014 17:12:12 UTC
 # encoding utf-8
 Units mm
 $INDEX
@@ -22,6 +22,15 @@ _Pin2mm_7
 _Pin2mm_7z
 _Pin2mm_8
 _Pin2mm_8z
+_Solder_Pad1.27_10
+_Solder_Pad1.27_2
+_Solder_Pad1.27_3
+_Solder_Pad1.27_4
+_Solder_Pad1.27_5
+_Solder_Pad1.27_6
+_Solder_Pad1.27_7
+_Solder_Pad1.27_8
+_Solder_Pad1.27_9
 _Solder_Pad2.54_2
 _Solder_Pad2.54_3
 _Solder_Pad2.54_4
@@ -1107,6 +1116,465 @@ Ne 0 ""
 Po -5 -0.2
 $EndPAD
 $EndMODULE _Pin2mm_8z
+$MODULE _Solder_Pad1.27_10
+Po 0 0 0 15 5352AE65 00000000 ~~
+Li _Solder_Pad1.27_10
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_10"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.445 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.715 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.175 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.905 0
+$EndPAD
+$PAD
+Sh "5" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 0
+$EndPAD
+$PAD
+Sh "6" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 0
+$EndPAD
+$PAD
+Sh "7" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.905 0
+$EndPAD
+$PAD
+Sh "8" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.175 0
+$EndPAD
+$PAD
+Sh "9" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.445 0
+$EndPAD
+$PAD
+Sh "10" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.715 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_10
+$MODULE _Solder_Pad1.27_2
+Po 0 0 0 15 5352AD9B 00000000 ~~
+Li _Solder_Pad1.27_2
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_2"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_2
+$MODULE _Solder_Pad1.27_3
+Po 0 0 0 15 5352ADBA 00000000 ~~
+Li _Solder_Pad1.27_3
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_3"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_3
+$MODULE _Solder_Pad1.27_4
+Po 0 0 0 15 5352ADD5 00000000 ~~
+Li _Solder_Pad1.27_4
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_4"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.905 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.905 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_4
+$MODULE _Solder_Pad1.27_5
+Po 0 0 0 15 5352ADE7 00000000 ~~
+Li _Solder_Pad1.27_5
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_5"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "5" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_5
+$MODULE _Solder_Pad1.27_6
+Po 0 0 0 15 5352ADFA 00000000 ~~
+Li _Solder_Pad1.27_6
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_6"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.905 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.175 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 0
+$EndPAD
+$PAD
+Sh "5" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.905 0
+$EndPAD
+$PAD
+Sh "6" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.175 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_6
+$MODULE _Solder_Pad1.27_7
+Po 0 0 0 15 5352AE13 00000000 ~~
+Li _Solder_Pad1.27_7
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_7"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "5" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "6" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "7" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_7
+$MODULE _Solder_Pad1.27_8
+Po 0 0 0 15 5352AE27 00000000 ~~
+Li _Solder_Pad1.27_8
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_8"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.175 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.445 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.905 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 0
+$EndPAD
+$PAD
+Sh "5" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 0
+$EndPAD
+$PAD
+Sh "6" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.905 0
+$EndPAD
+$PAD
+Sh "7" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.175 0
+$EndPAD
+$PAD
+Sh "8" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.445 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_8
+$MODULE _Solder_Pad1.27_9
+Po 0 0 0 15 5352AE4D 00000000 ~~
+Li _Solder_Pad1.27_9
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.127 -1.651 0.2 0.2 0 0.05 N V 21 N "_Solder_Pad1.27_9"
+T1 0 -1.016 0.3 0.3 0 0.075 N V 21 N "VAL**"
+$PAD
+Sh "2" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "1" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "3" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "4" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "5" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "6" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "7" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "8" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "9" R 0.8 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$EndMODULE _Solder_Pad1.27_9
 $MODULE _Solder_Pad2.54_2
 Po 0 0 0 15 530D1741 00000000 ~~
 Li _Solder_Pad2.54_2
