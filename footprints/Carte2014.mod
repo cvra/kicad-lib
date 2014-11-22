@@ -1,0 +1,82 @@
+PCBNEW-LibModule-V1  Samedi 15 novembre 2014 19:32:58
+# encoding utf-8
+Units mm
+$INDEX
+Carte2014
+Jumer
+LedRGB
+$EndINDEX
+$MODULE Carte2014
+Po 0 0 0 15 54675E15 00000000 ~~
+Li Carte2014
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "Carte2014"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+$EndMODULE Carte2014
+$MODULE Jumer
+Po 0 0 0 15 54679C50 00000000 ~~
+Li Jumer
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.889 3.048 1 1 0 0.15 N V 21 N "Jumer"
+T1 -1.778 -3.556 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "1AN1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 0
+$EndPAD
+$PAD
+Sh "1AN2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.016 0
+$EndPAD
+$EndMODULE Jumer
+$MODULE LedRGB
+Po 0 0 0 15 546797CF 00000000 ~~
+Li LedRGB
+Sc 0
+AR 
+Op 0 0 0
+T0 -1.27 4.445 1 1 0 0.15 N V 21 N "LedRGB"
+T1 -1.905 -5.715 1 1 0 0.15 N V 21 N "VAL**"
+DS -2.54 -2.54 1.36 -2.54 0.15 21
+DS 1.397 -2.54 1.397 1.36 0.15 21
+DS 1.36 1.397 -2.54 1.397 0.15 21
+DS -2.54 -2.54 -2.54 1.36 0.15 21
+$PAD
+Sh "1AN" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "2" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 -2.13
+$EndPAD
+$PAD
+Sh "3" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.13 -2.13
+$EndPAD
+$PAD
+Sh "4" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.13 1.27
+$EndPAD
+$EndMODULE LedRGB
+$EndLIBRARY
