@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Don 27 Nov 2014 21:55:47 UTC
+PCBNEW-LibModule-V1  Fre 28 Nov 2014 14:24:04 UTC
 # encoding utf-8
 Units mm
 $INDEX
@@ -7,6 +7,7 @@ Jumer
 LedRGB
 pin4_can_connector
 ribbon_cable_6pin
+ribbon_cable_7pin
 $EndINDEX
 $MODULE Carte2014
 Po 0 0 0 15 54675E15 00000000 ~~
@@ -169,4 +170,62 @@ Ne 0 ""
 Po -2.667 0
 $EndPAD
 $EndMODULE ribbon_cable_6pin
+$MODULE ribbon_cable_7pin
+Po 0 0 0 15 5478857D 00000000 ~~
+Li ribbon_cable_7pin
+Sc 0
+AR 
+Op 0 0 0
+T0 0.254 -1.778 1 1 0 0.15 N V 21 N "ribbon_cable_7pin"
+T1 0 -1.524 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "7" O 1.27 1.778 0 0 0
+Dr 0.762 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.334 0
+$EndPAD
+$PAD
+Sh "1" O 1.27 1.778 0 0 0
+Dr 0.762 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.334 0
+$EndPAD
+$PAD
+Sh "6" O 1.27 1.778 0 0 0
+Dr 0.762 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.556 0
+$EndPAD
+$PAD
+Sh "5" O 1.27 1.778 0 0 0
+Dr 0.762 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.778 0
+$EndPAD
+$PAD
+Sh "4" O 1.27 1.778 0 0 0
+Dr 0.762 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" O 1.27 1.778 0 0 0
+Dr 0.762 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.778 0
+$EndPAD
+$PAD
+Sh "2" O 1.27 1.778 0 0 0
+Dr 0.762 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.556 0
+$EndPAD
+$EndMODULE ribbon_cable_7pin
 $EndLIBRARY
