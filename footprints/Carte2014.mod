@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Fre 28 Nov 2014 14:24:04 UTC
+PCBNEW-LibModule-V1  Sam 06 Dez 2014 12:00:30 UTC
 # encoding utf-8
 Units mm
 $INDEX
@@ -83,7 +83,7 @@ Po -2.13 1.27
 $EndPAD
 $EndMODULE LedRGB
 $MODULE pin4_can_connector
-Po 0 0 0 15 54765195 00000000 ~~
+Po 0 0 0 15 5482EFD3 00000000 ~~
 Li pin4_can_connector
 Sc 0
 AR 
@@ -105,7 +105,7 @@ Ne 0 ""
 Po 1 0
 $EndPAD
 $PAD
-Sh "1" R 1.7 1.7 0 0 0
+Sh "1" C 1.7 1.7 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
