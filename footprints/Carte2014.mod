@@ -1,10 +1,11 @@
-PCBNEW-LibModule-V1  Sam 06 Dez 2014 12:00:30 UTC
+PCBNEW-LibModule-V1  Sam 06 Dez 2014 12:05:22 UTC
 # encoding utf-8
 Units mm
 $INDEX
 Carte2014
 Jumer
 LedRGB
+PWR_Conn
 pin4_can_connector
 ribbon_cable_6pin
 ribbon_cable_7pin
@@ -82,6 +83,22 @@ Ne 0 ""
 Po -2.13 1.27
 $EndPAD
 $EndMODULE LedRGB
+$MODULE PWR_Conn
+Po 0 0 0 15 5482F0EC 00000000 ~~
+Li PWR_Conn
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.016 0.127 0.127 0 0.03175 N V 21 N "PWR_Conn"
+T1 0 -0.762 0.127 0.127 0 0.03175 N V 21 N "VAL**"
+$PAD
+Sh "1" R 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE PWR_Conn
 $MODULE pin4_can_connector
 Po 0 0 0 15 5482EFD3 00000000 ~~
 Li pin4_can_connector
