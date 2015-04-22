@@ -4,4 +4,8 @@ $CMP FM24CL64B
 D FRAM (64-Kbit)
 $ENDCMP
 #
+$CMP LTC2875
+D CAN transceiver
+$ENDCMP
+#
 #End Doc Library
