@@ -1,3 +1,7 @@
-EESchema-DOCLIB  Version 2.0  Date: Son 28 Dez 2014 12:35:45 UTC
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM24CL64B
+D FRAM (64-Kbit)
+$ENDCMP
 #
 #End Doc Library
