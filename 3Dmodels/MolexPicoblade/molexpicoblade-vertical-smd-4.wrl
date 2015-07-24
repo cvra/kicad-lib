@@ -4,7 +4,7 @@ Group {
     Shape {
       appearance Appearance {
         material Material {
-          diffuseColor 0.9 1.0 0.8
+          diffuseColor 1.0 1.0 0.8
           specularColor 0.7 0.7 1.0
         }
       }
