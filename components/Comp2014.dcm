@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Don 13 Nov 2014 15:05:39 UTC
+#
+$CMP DEL_RGB
+D BAR GRAPH unit
+K BAR DOT
+F Display/HDSP-48xx.pdf
+$ENDCMP
+#
+#End Doc Library
