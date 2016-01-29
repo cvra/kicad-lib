@@ -1,10 +1,10 @@
 (module _Micro-USB-AB-receptacle-SMT-th (layer F.Cu) (tedit 562D2E31)
   (descr "part number: 10118193-0001LF")
   (tags "micro USB, connector, receptacle")
-  (fp_text reference _Micro-USB-AB-receptacle-SMT-th (at 0 -5.5) (layer F.SilkS) hide
+  (fp_text reference CONN4 (at 0 -5.5) (layer F.SilkS) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (fp_text value VAL** (at 0 -4.5) (layer F.SilkS) hide
+  (fp_text value MICRO_USB (at 0 -4.5) (layer F.SilkS) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (pad 6 smd rect (at 1.2 0) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
@@ -18,4 +18,9 @@
   (pad 3 smd rect (at 0 -2.675) (size 0.4 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 6 thru_hole oval (at 3.3 0) (size 0.9 1.6) (drill oval 0.5 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at -3.3 0) (size 0.9 1.6) (drill oval 0.5 1.2) (layers *.Cu *.Mask))
+  (model 3Dmodels/Connectors/micro_usb_fci_10118193.wrl
+    (at (xyz -3.92 0.127 -0.018))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz -90 0 0))
+  )
 )
