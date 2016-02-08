@@ -8,6 +8,12 @@ $CMP LTC2875
 D CAN transceiver
 $ENDCMP
 #
+$CMP MBT3904DW1T1
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-363
+K MBT3904 NPN Transistor
+F http://www.onsemi.com/pub_link/Collateral/MBT3904DW1T1-D.PDF
+$ENDCMP
+#
 $CMP TPS25200
 D eFuse
 K current limit overvoltage clamp
