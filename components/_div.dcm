@@ -8,6 +8,10 @@ $CMP LTC2875
 D CAN transceiver
 $ENDCMP
 #
+$CMP LTC4415
+D Ideal Diode
+$ENDCMP
+#
 $CMP TPS25200
 D eFuse
 K current limit overvoltage clamp
