@@ -11,4 +11,9 @@
   (pad 4 smd rect (at 0.65 -0.92) (size 0.3 0.66) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0 -0.92) (size 0.3 0.66) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -0.65 -0.92) (size 0.3 0.66) (layers F.Cu F.Paste F.Mask))
+  (model 3Dmodels/SMD/sot363.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.394 0.394 0.394))
+    (rotate (xyz 0 0 0))
+  )
 )

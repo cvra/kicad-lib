@@ -7,4 +7,9 @@
   )
   (pad 1 smd rect (at -1.25 0) (size 1.1 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.25 0) (size 1.1 1.9) (layers F.Cu F.Paste F.Mask))
+  (model 3Dmodels/Diverse/Crystal_SMD_ABS07.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.394 0.394 0.394))
+    (rotate (xyz -90 0 0))
+  )
 )

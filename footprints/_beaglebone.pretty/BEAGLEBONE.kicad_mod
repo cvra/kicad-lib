@@ -123,4 +123,9 @@
   (pad A8 smd circle (at 28.575 -8.255) (size 1.30048 1.30048) (layers Eco2.User))
   (pad A9 smd circle (at 26.035 -10.795) (size 1.30048 1.30048) (layers Eco2.User))
   (pad A10 smd circle (at 26.035 -8.255) (size 1.30048 1.30048) (layers Eco2.User))
+  (model 3Dmodels/BeagleboneBlack/Cape_connectors.wrl
+    (at (xyz -0.35 0 -0.55))
+    (scale (xyz 0.394 0.394 0.394))
+    (rotate (xyz -90 0 0))
+  )
 )
