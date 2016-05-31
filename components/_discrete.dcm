@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTJD4001N
+D 30V Vds, 250A Id, Dual N-Channel MOSFET, SC-70-6
+K Dual N-Channel MOSFET Logic Level
+F http://www.onsemi.com/pub_link/Collateral/NTJD4001N-D.PDF
+$ENDCMP
+#
+#End Doc Library
