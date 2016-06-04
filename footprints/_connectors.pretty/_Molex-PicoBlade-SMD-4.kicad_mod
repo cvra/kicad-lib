@@ -12,4 +12,9 @@
   (pad 1 smd rect (at -1.875 -2.9) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
   (pad MECH smd rect (at -4.425 0) (size 2.1 3) (layers F.Cu F.Paste F.Mask))
   (pad MECH smd rect (at 4.425 0) (size 2.1 3) (layers F.Cu F.Paste F.Mask))
+  (model 3Dmodels/Connectors/molex_picoblade_4pin_smd_right.wrl
+    (at (xyz 0 0.03 0.09))
+    (scale (xyz 0.394 0.394 0.394))
+    (rotate (xyz 0 0 180))
+  )
 )

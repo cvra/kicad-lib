@@ -15,4 +15,9 @@
   (pad 2 thru_hole circle (at 1.25 0) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.5 0) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 3.75 0) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
+  (model Connectors/molex_picoblade_4pin_smd_right.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
