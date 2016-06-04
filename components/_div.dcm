@@ -14,6 +14,10 @@ K MBT3904 NPN Transistor
 F http://www.onsemi.com/pub_link/Collateral/MBT3904DW1T1-D.PDF
 $ENDCMP
 #
+$CMP LTC4415
+D Ideal Diode
+$ENDCMP
+#
 $CMP TPS25200
 D eFuse
 K current limit overvoltage clamp
