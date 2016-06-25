@@ -54,4 +54,9 @@
   (pad SHD smd rect (at 8.7 11.575) (size 1.5 1.15) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 2.1 11.575) (size 1.5 1.15) (layers F.Cu F.Paste F.Mask))
   (pad SHD smd rect (at -0.2 11.575) (size 1.5 1.15) (layers F.Cu F.Paste F.Mask))
+  (model ${KIPRJMOD}/kicad-lib/3Dmodels/Connectors/micro_sd_molex_502570.wrl
+    (at (xyz -1.615 -2.58 0.03))
+    (scale (xyz 0.39 0.39 0.39))
+    (rotate (xyz 0 0 0))
+  )
 )
