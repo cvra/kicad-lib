@@ -28,4 +28,9 @@
   (pad 16 smd rect (at 4.8 2.2) (size 1.8 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 4.8 1.1) (size 1.8 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at 4.8 0) (size 1.8 0.7) (layers F.Cu F.Paste F.Mask))
+  (model Sensors/ublox-gps-max-m8.wrl
+    (at (xyz 0.005 -0.1755 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
