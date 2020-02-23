@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DRV8847_HTSSOP
+F http://www.ti.com/lit/ds/symlink/drv8847.pdf
+$ENDCMP
+#
 $CMP DRV8847_TSSOP
 F http://www.ti.com/lit/ds/symlink/drv8847.pdf
 $ENDCMP
