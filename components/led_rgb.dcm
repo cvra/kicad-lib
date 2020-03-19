@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRGB1318FSE
+D RGB LED, 6 pin package
+K LED RGB diode
+F http://www.stanley-components.com/php/downloaddatafile.php?rp=0,CRGB1318FSE-TM_e.pdf
+$ENDCMP
+#
+#End Doc Library
