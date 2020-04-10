@@ -1,4 +1,4 @@
-(module _Micro-USB-AB-receptacle-SMT-th-no-slot (layer F.Cu) (tedit 562DE6BF)
+(module _Micro-USB-AB-receptacle-SMT-th-no-slot (layer F.Cu) (tedit 5E8F994A)
   (descr "part number: 10118193-0001LF")
   (tags "micro USB, connector, receptacle")
   (fp_text reference _Micro-USB-AB-receptacle-SMT-th (at 0 -5.5) (layer F.SilkS) hide
@@ -6,6 +6,10 @@
   )
   (fp_text value VAL** (at 0 -4.5) (layer F.SilkS) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_line (start -4 2.75) (end 4 2.75) (layer Dwgs.User) (width 0.12))
+  (fp_text user "CONN END" (at 0 4) (layer Cmts.User)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad 6 smd rect (at 1.2 0) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -1.2 0) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
@@ -18,4 +22,9 @@
   (pad 3 smd rect (at 0 -2.675) (size 0.4 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 6 thru_hole circle (at 3.3 0) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -3.3 0) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/kicad-lib/3Dmodels/Connectors/micro-usb-10118193.stp
+    (offset (xyz -98 3.2 -0.2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

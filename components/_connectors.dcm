@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10118193-0001LF
+D Micro USB connector
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -1,4 +1,4 @@
-(module CRGB1318FSE-TM (layer F.Cu) (tedit 5E73FC90)
+(module CRGB1318FSE-TM (layer F.Cu) (tedit 5E8F9B53)
   (fp_text reference REF** (at 0 1.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -21,4 +21,9 @@
   (pad 5 smd rect (at 1.26 0) (size 0.5 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.42 0) (size 0.5 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.45 0) (size 1.2 0.8) (layers F.Cu F.Paste F.Mask))
+  (model ${KIPRJMOD}/kicad-lib/3Dmodels/LEDs/CRGB1318FSE_rgb_led.stp
+    (offset (xyz -2.25 -0.25 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
